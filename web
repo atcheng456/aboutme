@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Angelica Cheng</title>
+</head>
+
+<body>
+<h1>Hey, it's Angelica Cheng here!</h1>
+    
+<ul> 
+        <li> Major: Electrical Engineering </li>
+        <li> Hometown: Hong Kong </li>
+        <li> IP Address: 10.245.153.146 </li>
+        <li> Fun fact: I bit my roommate once and she moved out at the end of the semester (I promise these facts are not correlated)</li>
+</ul>
+
+<img style="max-width: 300px; height: auto; " class="center" src="cheungchau.jpeg"/>
+
+<p><EM>Favourite Place: Cheung Chau, Hong Kong<EM></p>
+
+</body>
+
+</html>
